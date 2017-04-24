@@ -1,0 +1,10 @@
+body{
+	color: white;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	/*background-size: 1000px;*/
+}
+.white{
+	color: blue;
+}
+a:link{}
